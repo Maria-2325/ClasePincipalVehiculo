@@ -7,5 +7,4 @@ public enum TipoAutomovil {
     FAMILIAR,
     EJECUTIVO,
     SUV
-
 }

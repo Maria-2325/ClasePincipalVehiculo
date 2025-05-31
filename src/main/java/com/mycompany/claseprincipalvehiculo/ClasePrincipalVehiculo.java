@@ -18,7 +18,5 @@ public class ClasePrincipalVehiculo {
         System.out.println("Tiempo de llegada del Automovil: " + objAutomovil.calcularTiempo(10d)+ " h");
         objAutomovil.frenar();
         System.out.println("El carro ha frenado a: " + objAutomovil.getVelocidadActual() + " km/h"); 
-        
-        
     }
 }
