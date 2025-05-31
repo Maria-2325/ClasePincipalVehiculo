@@ -2,6 +2,15 @@
 package com.mycompany.claseprincipalvehiculo.Enumeraciones;
 
 
-public class Color {
+public enum Color {
+    
+    BLANCO,
+    NEGRO,
+    ROJO,
+    NARANJA,
+    AMARILLO,
+    VERDE,
+    AZUL,
+    VIOLETA
     
 }
